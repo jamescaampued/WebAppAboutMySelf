@@ -1,0 +1,37 @@
+h1{
+text-align: center;
+color: yellowgreen;
+font-size:35;
+}
+
+a:link {
+	color: #ccc;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: 036#;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FC0;
+}
+a:active {
+	text-decoration: none;
+	color: #D6D6D6;
+}
+
+body{
+background-image: url("grass.jpg");
+background-image: no-repeat;
+}
+p{
+margin-left:225;
+margin-right:225;
+text-align:center;
+color:yellowgreen;
+font-size:30;
+}
+table{
+background-color:yellowgreen;
+}
